@@ -1,4 +1,4 @@
-# Student List App with React-Router-DOM
+# Student List App with React-Router-Dom
 
 You can use this app for listing students
 And you can edit and delete items
